@@ -1,0 +1,7 @@
+/.terraform
+/.terraform.lock.hcl
+/main.tfplan
+/provider.tf
+/terraform.exe
+/terraform.tfstate
+/terraform.tfstate.backup
